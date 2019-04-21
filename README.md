@@ -1,2 +1,7 @@
 # CarDetection
-this project identifying car in live camera or video source
+this project identifying car in live camera or video source 
+Technology Used
+Python 3 or above
+OpenCv3 
+Numpy
+Os 
